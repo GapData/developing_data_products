@@ -1,4 +1,4 @@
-# developing_data_products
+# World Development Indicators
 
 This repository contains scripts for the Developing Data Products course project. 
 
