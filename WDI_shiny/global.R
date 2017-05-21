@@ -1,8 +1,7 @@
 library(WDI)
 library(dplyr)
 
-# Indices for the indicators. Indicators are classified and selected 
-# based on these
+# Indices for the indicators
 
 all_Indices <- c(25,26,39,40,41,46,50,2259,2260,2265,2266,4372,4378,5404,5405,
                  5406,5878,5879,5880,2293,2297,2298,2299,2300,2301,2302,5893,
