@@ -1,4 +1,4 @@
-# World Development Indicators
+# World Development Indicators (Shiny app)
 
 This repository contains scripts for the Developing Data Products course project. 
 
